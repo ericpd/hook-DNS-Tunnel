@@ -1,3 +1,5 @@
+#Hello guys (hacker and ......)
+
 # Intro
 Inspired by recent work I did involving Cobalt Strike DNS beacons, in conjunction with a mission statement to try and evade Microsoft Defender for Endpoint, I spent some time looking into how DNS might be used to transfer a payload to a target machine. I further wanted to challenge myself by trying to do so in a way that is possible even when powershell is in Constrained Language Mode. This research was targeted at more modern implementations of Windows (i.e. Win10+, Server 2019+) but as you see later it may be possible in lower versions.
 
